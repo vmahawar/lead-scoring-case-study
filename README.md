@@ -1,4 +1,4 @@
-## 📈Lead Scoring Case Study
+# 📈Lead Scoring Case Study
 
 ### 🟪Goals for this case study:
 
@@ -25,7 +25,7 @@ X Education has appointed you to help them select the most promising leads, i.e.
 You are required to model the **demand for shared bikes with the available independent variables**. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly **manipulate the business strategy to meet the demand levels** and meet the customer's expectations. Further, the model will be a good way for management to **understand the demand dynamics** of a new market. 
 
 ---
-### 1️⃣🔍Data understanding, preparation and EDA (~30%):
+## 1️⃣🔍Data understanding, preparation and EDA (~30%):
 
 ✅Meets expectations
  - Data quality checks, if any, are performed, and all data quality issues are addressed in the right way. 
@@ -51,7 +51,7 @@ You have been provided with a leads dataset from the past with around 9000 data 
 
 ---
 
-### 2️⃣🧑‍💻Model building and evaluation (~40%):
+## 2️⃣🧑‍💻Model building and evaluation (~40%):
 
 ✅Meets expectations
  - Model parameters are tuned using correct principles and the approach is explained clearly. 
@@ -72,7 +72,7 @@ You have been provided with a leads dataset from the past with around 9000 data 
 
 ---
 
-## 4️⃣✍️Subjective Questions (~10%):
+## 3️⃣✍️Subjective Questions (~10%):
 
 ✅Meets expectations
  - The answer to the subjective questions are clear, concise and to the point.
