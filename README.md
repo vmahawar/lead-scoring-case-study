@@ -127,6 +127,13 @@ Please refer the [Assignment PDF](Bike-Sharing-Assignment-Subjective-Questions.p
 
 ---
 
+## Team Members:
+ - Rekha Vinothkumar
+ - Vimal Nelson
+ - Vijay Mahawar
+
+---
+
 ## 📖References:
 The dataset and data dictionary can be get from link given below:
 
