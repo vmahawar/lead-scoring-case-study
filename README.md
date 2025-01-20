@@ -81,10 +81,9 @@ You have been provided with a leads dataset from the past with around 9000 data 
 ❌Does not meet expectations
  - The answers are incorrect or unnecessarily long.
  - The assumptions, if any, behind the answers, are not explained and the reasons behind the answers are not given clearly.
+
 ### ⏩Assignment-Based Subjective Questions
-Please refer the [Assignment PDF](Bike-Sharing-Assignment-Subjective-Questions.pdf)
-### ⏩Answers for General Subjective Questions 
-Please refer the [Assignment PDF](Bike-Sharing-Assignment-Subjective-Questions.pdf)
+Please refer the [Assignment PDF](./lead-scoring-assignment-subject-questions.pdf)
 
  ---
 ## 4️⃣Presentation and Recommendations (~10%)
@@ -98,6 +97,10 @@ Please refer the [Assignment PDF](Bike-Sharing-Assignment-Subjective-Questions.p
  - The recommendations to solve the problems are either unrealistic, non-actionable or incoherent with the analysis.
  - Contains unnecessary details or lacks the important ones.
  - Assumptions made, if any, are not stated clearly.
+
+### ⏩ Presentation and Recommentation
+Please refer the [Presentation PDF](./lead-scoring-case-study-presentation.pdf)
+
 ---
 ## 5️⃣ Summary Report (~5%)
 ✅Meets expectations
@@ -107,6 +110,9 @@ Please refer the [Assignment PDF](Bike-Sharing-Assignment-Subjective-Questions.p
 ❌Does not meet expectations
  - The process followed and learnings are not mentioned clearly and the report keeps deviating from it.
  - The report is too brief or too detailed, i.e., it doesn't stick to the 500-word word limit.
+
+### ⏩ Summary Report
+Please refer the [Summary Report PDF](./lead-scoring-case-study-summary.pdf)
 
 ---
 ## 6️⃣ Conciseness and readability of the code (~5%)
@@ -124,9 +130,9 @@ Please refer the [Assignment PDF](Bike-Sharing-Assignment-Subjective-Questions.p
 ## 💼Submissions:
 
  - **Python Notebook**: One Python notebook with the whole linear model, predictions, and evaluation. [Lead Scoring Jupyter Notebook](./lead-scoring-case-study.ipynb)
- - **Word File (Subjective Questions)**: Answer all the questions asked by the company in the word document provided. [Word File - Subjective Questions](./Assignment%20Subjective%20Questions.docx) 
- - **Presentation PDF**:  Make a presentation to present your analysis to the chief data scientist of your company (and thus you should include both technical and business aspects). The presentation should be concise, clear, and to the point. Submit the presentation after converting it into PDF format - [Lead Scoring Presentation](./lead-scoring-case-study.pdf)
- - **Summary Report PDF**: Apart from the Python notebook, you also need to answer some subjective questions related to linear regression which can be downloaded from the file below. Answer these questions and submit it as a PDF. [Lead Scoring Summary Report](Bike-Sharing-Assignment-Subjective-Questions.pdf)
+ - **Word File (Subjective Questions)**: Answer all the questions asked by the company in the word document provided. [Subjective Questions](./lead-scoring-assignment-subject-questions.pdf) 
+ - **Presentation PDF**:  Make a presentation to present your analysis to the chief data scientist of your company (and thus you should include both technical and business aspects). The presentation should be concise, clear, and to the point. Submit the presentation after converting it into PDF format - [Lead Scoring Presentation](./lead-scoring-case-study-presentation.pdf)
+ - **Summary Report PDF**: Apart from the Python notebook, you also need to answer some subjective questions related to linear regression which can be downloaded from the file below. Answer these questions and submit it as a PDF. [Lead Scoring Summary Report](./lead-scoring-case-study-summary.pdf)
 
 💡`Note`: There are some questions in the subjective questions doc that you might not be familiar with. So you're expected to research these questions and give an appropriate answer in order to expand your learnings of this topic.
 
